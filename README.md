@@ -112,3 +112,10 @@ The four plots that you will need to construct are shown below.
 
 ![plot of chunk unnamed-chunk-5](figure/unnamed-chunk-5.png) 
 
+
+
+## Note
+
+For `plot2.png` and `plot4.png`, the figure in the repo were generated on a French based locale.
+
+In instance to run the scripts, the dataset must be in the working directory with name `household_power_consumption.txt`.
